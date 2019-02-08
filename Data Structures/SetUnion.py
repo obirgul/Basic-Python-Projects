@@ -13,6 +13,6 @@ print(setA - setB) #fark
 print(setB.difference(setA))
 print(setA.difference(setB))
 
-print(setA ^ setB) # A fark B + B fark A = birleşim - kesişim
+print(setA ^  setB) # A fark B + B fark A = birleşim - kesişim
 print(setB.symmetric_difference(setA))
 print(setA.symmetric_difference(setB))

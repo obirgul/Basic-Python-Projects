@@ -5,10 +5,10 @@ for x in range(2,num):
         x = "asal degil"
         break
 
-if x=="asal":
-    print("Bu sayı asal")
-else:
-    print("asal değil")
+x=="asal"
+print("Bu sayı asal")
+#else:
+ #   print("asal değil")
 
 
-#asal sayılarda hata veriyor
+#asal sayılarda hata veriyor4

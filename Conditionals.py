@@ -1,6 +1,6 @@
 lights = ["green", "yellow", "red"]
-
-currentlight = lights[1]
+from random import randint
+currentlight = lights[randint(0,2)]
 print(currentlight)
 
 if currentlight == "green":

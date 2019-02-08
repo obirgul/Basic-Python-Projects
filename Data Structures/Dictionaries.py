@@ -1,14 +1,14 @@
-Sozluk = {
+sozluk = {
     "kitap" : "book",
     "kalem" : "pencil"
 }
 
-Sozluk2 = dict(notebook = "defter", engineer = "mühendis")
+sozluk2 = dict(notebook = "defter", engineer = "mühendis")
 
-Sozluk["masa"] = "table"
-Sozluk["kitap"] = "book1"
+sozluk["masa"] = "table"
+sozluk["kitap"] = "book1"
 
-print(Sozluk)
-print(Sozluk2)
-print(len(Sozluk))
-print(len(Sozluk2))
+print(sozluk)
+print(sozluk2)
+print(len(sozluk))
+print(len(sozluk2))
