@@ -1,4 +1,4 @@
-def Mathematics:
+def Mathematics(num1,num2) :
 # self dikkat
     def toplam(self,num1,num2):
         return num1 + num2
